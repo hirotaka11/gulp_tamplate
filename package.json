@@ -1,0 +1,23 @@
+{
+  "name": "gulp_package",
+  "version": "0.0.1",
+  "description": "",
+  "author": "HiRO",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "*",
+    "run-sequence": "*",
+    "rimraf": "*",
+    "gulp": "*",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-ruby-sass": "*",
+    "gulp-notify": "*",
+    "gulp-pleeease": "*",
+    "gulp-plumber": "*",
+    "gulp-minify-html": "*",
+    "gulp-if": "*",
+    "gulp-imagemin": "*",
+    "gulp-newer": "*",
+    "gulp-sourcemaps": "*"
+  }
+}
