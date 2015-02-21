@@ -6,8 +6,8 @@ Please acknowledge.
 
 ## Usage
 
-`$ npm install
-$ gulp`
+    $ npm install
+    $ gulp
 
 Use Gulp for publish build.
 
